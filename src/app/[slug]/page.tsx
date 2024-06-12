@@ -1,7 +1,6 @@
 import Add from '@/components/Add';
 import CustomizeProducts from '@/components/CustomizeProducts';
 import ProductImages from '@/components/ProductImages';
-import React from 'react';
 
 const SinglePage = () => {
   return (
